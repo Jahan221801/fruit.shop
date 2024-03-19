@@ -1,0 +1,11 @@
+[33mcommit 9d71a266c496e052d9ecc8f349d4a15340ab20a0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: KITE STUDENT <kitestudent@kgisledu.com>
+Date:   Tue Mar 19 14:04:19 2024 +0530
+
+    second commit
+
+[33mcommit efa6e7d23f40d3bd0698e78559f160a58e909678[m
+Author: KITE STUDENT <kitestudent@kgisledu.com>
+Date:   Tue Mar 19 12:18:29 2024 +0530
+
+    first commit
